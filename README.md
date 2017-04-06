@@ -1,4 +1,3 @@
 # Front-endStarterProject
-Just a test env
 
-have a readme
+Starter template for front-end projects.
